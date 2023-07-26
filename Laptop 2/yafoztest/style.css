@@ -1,0 +1,54 @@
+.nav {
+background-color: brown;
+width: 1100px;
+display: block;
+margin: 10px auto 0 auto;
+border-radius: 20px;
+display: flex;
+justify-content: space-around;
+}
+
+.top{
+font-size: 32px;
+color: beige;
+margin: 0px 10px;
+}
+
+.menu{
+ margin: 50px auto 50px auto;
+display: block;
+width: 130px;
+color: brown;
+font-size: 50px;
+}
+
+.text {
+    background-color: aquamarine;
+}
+
+.main {
+    display: block;
+    width: 650px;
+    margin: 0px auto 0 auto ;
+}
+
+.something{
+    margin: 50px auto 50px auto;
+    display: block;
+    width: 600px;
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.text{
+    margin: 50px auto 50px auto;
+    display: block;
+    width: 130px;
+    color: blue;
+    font-size: 50px;
+}
+
+body{
+    background-color: blueviolet;
+    display: blockn;
+}

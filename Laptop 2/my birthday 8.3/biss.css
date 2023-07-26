@@ -1,0 +1,24 @@
+.img{
+    width: 350px;
+    border-radius: 500px;
+    border: green 5px dotted;
+}
+body{
+    background-color:rgb(0, 0, 0);
+
+} 
+.text{
+    text-align: center;
+}
+.first-img{
+    background-image: url("2Exc.jpeg");
+    background-size: cover;
+    width: 500px;
+    height: 600px;
+    margin: 0 auto 0 auto;
+}
+
+.first-img:hover{
+    background-image: url("h.jpeg");
+    background-size: cover; 
+}

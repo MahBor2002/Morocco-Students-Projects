@@ -1,0 +1,109 @@
+.text{
+    width: 200px;
+   color: black;
+    size: 600px;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.back{
+   background-image: url("1124-9070.jpg") ; 
+   width: 100%;
+   height: 400px;
+}
+.text2{
+    width: 100% ;
+    height: 50px;
+    color: black;
+    background-color: beige;
+    border-radius: 200px;
+    margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.text3{
+    width: 100%;
+    color: brown;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.img2{
+    width: 200px;
+    border-radius: 600px;
+}
+.img2:hover{
+    scale: 1.2;
+    rotate: 180deg;
+    transition: 1s;
+}
+
+.text4{
+    width: 200px;
+}
+.img3{
+    width: 200px;
+    border-radius:600px ;
+}
+.img3:hover{
+    scale: 1.2;
+    rotate: 180deg;
+    transition: 1s;
+}
+.text5{
+    width:200px ;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.text6{
+    width: 200px;
+}
+.img4{
+    width: 200px;
+    border-radius: 600px;
+}
+.img4:hover{
+    scale: 1.2;
+    rotate: 180deg;
+    transition: 1s;
+}
+.img5{
+    width: 200px;
+    border-radius: 600px;
+    text-align: end;
+    box-shadow: 200px;
+}
+.img:hover{
+    scale: 1.2;
+    rotate: 180deg;
+    transition: 1s;
+}
+.text7{
+    width: 200px;
+}
+.name{
+   border-top: 5px solid red;
+   height: 200px;
+   background-color: blue;
+}
+.fex{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+.islam{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.main{
+    background-color: aqua;
+}
+
