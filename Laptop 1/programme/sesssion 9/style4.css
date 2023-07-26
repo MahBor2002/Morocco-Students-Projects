@@ -1,0 +1,9 @@
+.main{
+    background-color:lightcoral;
+    width: 40%;
+    margin: 200px auto 0 auto;
+    padding: 80px 80px 80px 80px;
+    border-radius: 10px;
+    border: 13px groove blue ;
+
+}

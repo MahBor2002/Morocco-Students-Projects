@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(168, 151, 252); 
+    margin: 0 0 0 0;
+    padding-top: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+.role {
+    background-image: url("11423473.webp");
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    border-bottom: 10px rgb(247, 141, 55) solid;
+    justify-content: center;
+}
+
+.rov {
+    background-color: rgb(168, 151, 252);
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.ftr {
+    background-color: rgb(145, 112, 61);
+    width: 100%;
+    height: 350px;
+    border-radius: 20px 20px 0 0;
+
+}
+
+.free {
+    background-color: rgb(32, 138, 145);
+    border-radius: 10px;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 10px 10px 22px 0px rgba(33, 43, 17, 0.75);
+-webkit-box-shadow: 10px 10px 22px 0px rgba(33, 43, 17, 0.75);
+-moz-box-shadow: 10px 10px 22px 0px rgba(33, 43, 17, 0.75);
+
+text-shadow: 4px 4px 6px rgba(0,0,0,0.6);
+}
+
+.bff {
+    width: 199px;
+}
+
+.bff-img {
+    background-size: cover;
+    width: 199px;
+    height: 199px;
+    border-radius: 199px;
+    border: 5px solid rgb(243, 217, 183);
+    box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+-webkit-box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+}
+
+.bff-img:hover {
+    transform: rotate(4deg) scale(1.04);
+    transition: 0.5s;
+}
+
+.shaderflames {
+    background-image: url();
+    background-size: cover;
+    width: 199px;
+    height: 199px;
+    border-radius: 199px;
+    width: 145px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.mahdad {
+    background-image: url();
+    background-size: cover;
+    width: 199px;
+    height: 199px;
+    border-radius: 199px;
+    border: 5px solid rgb(243, 217, 183);
+    box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+-webkit-box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+}
+
+.mahdad:hover {
+    transform: rotate(4deg) scale(1.04);
+    transition: 0.5s;
+}
+
+.diae {
+    background-image: url();
+    background-size: cover;
+    width: 199px;
+    height: 199px;
+    border-radius: 199px;
+    border: 5px solid rgb(243, 217, 183);
+    box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+-webkit-box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 19px 21px 59px -11px rgba(0,0,0,0.75);
+}
+
+.diae:hover {
+    transform: rotate(4deg) scale(1.04);
+    transition: 0.5s;
+}

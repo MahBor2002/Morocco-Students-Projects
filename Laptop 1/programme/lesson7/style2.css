@@ -1,0 +1,14 @@
+.one1{
+ height: 200px; 
+background-color:red;
+}
+.two2{
+    height: 200px;
+    background-color:blue; 
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+.three3{
+    height: 200px;
+    background-color:green;
+}
