@@ -1,0 +1,30 @@
+.nev-el.main-txt {
+    margin: 50px auto 50px auto;
+    display: block;
+    width: 130px;
+    color: rgb(172, 184, 96);
+    font-size: 60px;
+}  
+.imput-p{
+    font-size: 30px;
+    color: aliceblue;
+    margin: 15px 0 0 0;
+}
+.impot{
+    width: 640px;
+    height: 50px;
+    font-size: 30px;
+    margin: 0 0 0 0 ;
+    border-radius: 10px;
+}
+btn{
+    width:160px;
+    margin:30px auto 0 auto ;
+    display: block;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 30px;
+    background-color: blueviolet;
+    color: azure;
+
+}
