@@ -1,0 +1,16 @@
+body{
+    background: #5ff4f5;
+background: linear-gradient(0deg,#5ff4f5 0%, #ee80f3 80%);
+background: -webkit-linear-gradient(0deg,#5ff4f5 0%, #ee80f3 80%);
+background: -moz-linear-gradient(0deg,#5ff4f5 0%, #ee80f3 80%);
+
+font-family: 'Josefin Sans', sans-serif;
+}
+
+.spn{
+    color: rgb(240, 186, 116);
+}
+
+.PDGF{
+    margin: 0 auto;
+}

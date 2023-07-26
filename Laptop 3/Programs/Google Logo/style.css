@@ -1,0 +1,31 @@
+.logo{
+    display: block;
+    width: 50%;
+    margin-left:auto;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    margin-right: auto;
+}
+.input{
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 3px;
+    height: 30px;
+    border-radius: 25px;
+}
+.button {
+    margin-top: 15px;
+    width: 150px;
+    display: block;
+    background-color: lightgray;
+    padding: 5px 5px 5px 5px;
+    border-radius: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.main {
+    justify-content: center;
+    display: flex;
+}

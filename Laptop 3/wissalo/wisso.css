@@ -1,0 +1,89 @@
+.text{
+    width: 100px;
+  border-radius: 200px;
+    background-color: rgb(134, 134, 244);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    size: 600px;
+}
+.text1{
+    width:50%;
+    height: 50px;
+    color: black;
+    background-color: rgb(218, 103, 64);
+    border-radius: 50px;
+    margin-top: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.text2{
+    width: 100%;
+    color: rgb(9, 19, 15);
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.text3{
+    width: 300px;
+    text-align: center;
+}
+.img{
+    width: 200px;
+    border-radius: 300px;
+}
+.text4{
+    width:300px ;
+    text-align: center;
+}
+.img2{
+    width:200px ;
+    border-radius: 300px;
+
+}
+.text5{
+    width: 300px;
+    text-align: 300px;
+}
+.img3{
+    width: 200px;
+    border-radius: 300px;
+}
+   
+.wait{
+    border-top: 5px solid rgb(31, 18, 216);
+    height: 200px;
+    background-color: rgb(255, 230, 0);
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+.water{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.project{
+    background-color: rgb(255, 0, 0);
+}
+
+.top-img{
+    background-image: url("london22.jpg");
+    background-size: cover;
+    height: 600px;
+}
+img:hover{
+    rotate: 120deg;
+    scale: 1.5;
+    transition: 10s;
+}

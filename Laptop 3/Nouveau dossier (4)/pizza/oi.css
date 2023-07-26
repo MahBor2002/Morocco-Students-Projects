@@ -1,0 +1,47 @@
+.div {
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 4px;
+    border: 2px solid lightgreen;
+}
+
+.top {
+    width: 38px;
+    font-size: 25px;
+    margin: 15px 55px 15px 55px;
+}
+
+body {
+    margin: 0 0 0 0;
+    background-color: burlywood;
+}
+
+.menu {
+    text-align: center;
+    margin-top: 84px;
+}
+
+.dar {
+    display: flex;
+    background-color: lightgreen;
+    width: 650px;
+    margin: 10px auto 0 auto;
+    border-radius: 15px;
+    justify-content: space-evenly;
+}
+
+.mdar {
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.main-items {
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+}
+.main {
+    display: block;
+    width: 650px;
+    margin: 0 auto 0 auto;
+}

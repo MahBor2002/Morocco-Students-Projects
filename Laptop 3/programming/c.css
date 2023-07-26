@@ -1,0 +1,30 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lumanosimo', cursive;
+font-family: 'Noto Sans SC', sans-serif;
+font-family: 'Source Code Pro', monospace;
+background: #ff0000;
+background: linear-gradient(30deg,#ff0000 0%, #b400ff 80%);
+background: -webkit-linear-gradient(30deg,#ff0000 0%, #b400ff 80%);
+background: -moz-linear-gradient(30deg,#ff0000 0%, #b400ff 80%);
+
+}
+
+.rel {
+    width: 1180px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 400px;
+    border: 10px solid rgb(232, 145, 104);
+    box-shadow: 10px 10px 24px 0px rgba(16,67,72,0.85);
+-webkit-box-shadow: 10px 10px 24px 0px rgba(16,67,72,0.85);
+-moz-box-shadow: 10px 10px 24px 0px rgba(16,67,72,0.85);
+    justify-content: center;
+}
